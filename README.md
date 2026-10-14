@@ -73,9 +73,5 @@ From the analysis, we can conclude:
 
 ---
 
-## 🚀 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Shrutijaiswar/Ola_rides_dashboard.git
 
 
